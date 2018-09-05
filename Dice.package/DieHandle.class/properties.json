@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "EduardoPadoan 9/1/2018 23:37",
+	"super" : "Object",
+	"category" : "Dice",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"dice",
+		"modifier"
+	],
+	"name" : "DieHandle",
+	"type" : "normal"
+}
